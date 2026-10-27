@@ -11,7 +11,6 @@
 
 <p align="center">
   <a href="https://nidoapp.web.app"><strong>Abrir la app</strong></a> ·
-  <a href="https://nidoapp.web.app/?demo">Probar la demo (sin cuenta)</a> ·
   <a href="#arquitectura">Arquitectura</a>
 </p>
 
@@ -25,7 +24,7 @@
 
 > Nido nació para mi propia familia y después lo convertí en algo que cualquier casa pueda usar. La interfaz está en castellano.
 
-> **El código de Nido es privado.** Este repositorio es solo la ficha del proyecto. La app está publicada y se puede usar directamente: [nidoapp.web.app](https://nidoapp.web.app) (la demo no necesita cuenta). Si quieres ver el código, escríbeme desde [nicolashidalgo.es](https://nicolashidalgo.es).
+> **El código de Nido es privado.** Este repositorio es solo la ficha del proyecto. La app está publicada y se puede usar directamente: [nidoapp.web.app](https://nidoapp.web.app) (puedes crear tu propia cuenta y tu casa en un minuto). Si quieres ver el código, escríbeme desde [nicolashidalgo.es](https://nicolashidalgo.es).
 
 ## Por qué
 
